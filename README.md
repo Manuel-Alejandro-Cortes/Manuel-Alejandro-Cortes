@@ -19,13 +19,22 @@ Beyond programming, I'm interested in software architecture, design patterns, an
 
 <br>
 
-<p align="center">
-  <a href="https://youtu.be/IgR0idS7z3Q">
-    <img src="https://img.youtube.com/vi/IgR0idS7z3Q/maxresdefault.jpg" width="600">
-    <br>
-    Watch Video
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <a href="https://youtu.be/IgR0idS7z3Q">
+        <img src="https://img.youtube.com/vi/IgR0idS7z3Q/maxresdefault.jpg" width="500"><br>
+        <strong>Gameplay Video</strong>
+      </a>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <a href="https://youtu.be/RgjM4VZEDio">
+        <img src="https://img.youtube.com/vi/RgjM4VZEDio/maxresdefault.jpg" width="500"><br>
+        <strong>Making of Video</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
 This prototype integrates Unreal Engine 5 features such as the Gameplay Ability System (GAS), State Trees, Gameplay Cameras, and an authoritative client-server architecture.
@@ -50,9 +59,9 @@ This prototype integrates Unreal Engine 5 features such as the Gameplay Ability 
 
 <p align="center">
   <a href="https://youtu.be/Mh2v4bQ99eQ">
-    <img src="https://img.youtube.com/vi/Mh2v4bQ99eQ/maxresdefault.jpg" width="600">
+    <img src="https://img.youtube.com/vi/Mh2v4bQ99eQ/maxresdefault.jpg" width="500">
     <br>
-    Watch Video
+    Gameplay Video
   </a>
 </p>
 
@@ -76,13 +85,22 @@ This prototype showcases a hack-and-slash combat system where the player can swi
 
 <br>
 
-<p align="center">
-  <a href="https://youtu.be/YQpqa6A4mrE">
-    <img src="https://img.youtube.com/vi/YQpqa6A4mrE/maxresdefault.jpg" width="600">
-    <br>
-    Watch Video
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <a href="https://youtu.be/YQpqa6A4mrE">
+        <img src="https://img.youtube.com/vi/YQpqa6A4mrE/maxresdefault.jpg" width="500"><br>
+        <strong>Gameplay Video</strong>
+      </a>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <a href="https://youtu.be/43sxbeRm3sk">
+        <img src="https://img.youtube.com/vi/43sxbeRm3sk/maxresdefault.jpg" width="500"><br>
+        <strong>Making of Video</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
 <b>Alive</b> is a fast-paced action game where you play as a small robot fighting against mysterious creatures while trying to reach its final goal. The twist is that every time you lose, you face a challenge; if you succeed, you return stronger, earning another chance to push forward and reinforcing the game's core theme.
@@ -97,7 +115,76 @@ This prototype showcases a hack-and-slash combat system where the player can swi
 
 <p align="center">
   <a href="https://lying-on-bell.itch.io/alive">
-    🎮 Playable Demo
+    🎮 Play here
+  </a>
+</p>
+
+</details>
+
+<details closed>
+<summary>
+<b>🟢 Gloopy - GMTK Game Jam 2025</b>
+</summary>
+
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/K-e863CRyAQ">
+    <img src="https://img.youtube.com/vi/K-e863CRyAQ/maxresdefault.jpg" width="500">
+    <br>
+    Making of Video Video
+  </a>
+</p>
+
+<p>
+<b>Gloopy</b> is a 2D platformer where you play as a small slime searching for berries in a strange forest. As a slime, you can't really jump... but what you can do is fall. The game explores movement and platforming mechanics through a creative interpretation of the GMTK Game Jam theme.
+</p>
+
+<b>Key Features</b>
+
+- Team Collaboration
+- Level Design
+- 2D Game Development
+- Platformer Gameplay
+
+<p align="center">
+  <a href="https://itch.io/jam/gmtk-2025/rate/3781482">
+    🎮 Play here
+  </a>
+</p>
+
+</details>
+
+<details closed>
+<summary>
+<b>☁️ Sky Time - Mega Stack ‘O’ Jam 2025</b>
+</summary>
+
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/teDXXhTmJzs">
+    <img src="https://img.youtube.com/vi/teDXXhTmJzs/maxresdefault.jpg" width="500">
+    <br>
+    Gameplay Video
+  </a>
+</p>
+
+<p>
+<b>Sky Time</b> is a platformer and puzzle adventure where players must avoid obstacles, solve challenges, and discover new ways to reach the goal. As the journey progresses, both the world and gameplay mechanics evolve, introducing new interactions and experiences designed to keep the player engaged and entertained.
+</p>
+
+<b>Key Features</b>
+
+- Interactive World
+- World Partition
+- Interactive Systems
+- Platformer & Puzzle Gameplay
+- Mission System
+
+<p align="center">
+  <a href="https://itch.io/jam/mega-stack-o-jam/rate/3829395">
+    🎮 Play Here
   </a>
 </p>
 
