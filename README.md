@@ -191,6 +191,52 @@ This prototype showcases a hack-and-slash combat system where the player can swi
 </details>
 
 ## Tech Stack
+<table>
+  <tr>
+    <th>Game Engines</th>
+    <td>
+      <img src="https://img.shields.io/badge/Unreal%20Engine%205-1b214e?style=for-the-badge&logo=unrealengine&logoColor=white">
+      <img src="https://img.shields.io/badge/UEFN-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+    </td>
+  </tr>
+  
+<tr>
+  <th>Unreal Systems</th>
+  <td>
+    <img src="https://img.shields.io/badge/Gameplay%20Ability%20System%20-15193b?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img src="https://img.shields.io/badge/AI%20Systems-0e1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img src="https://img.shields.io/badge/Multiplayer%20Networking-15193b?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img src="https://img.shields.io/badge/Unreal%20Insights-0e1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  </td>
+</tr>
+  
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/Verse-4B4B4B?style=for-the-badge">
+    </td>
+  </tr>
+
+  <tr>
+    <th>Version Control</th>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/TortoiseSVN-809CC9?style=for-the-badge">
+    </td>
+  </tr>
+
+  <tr>
+    <th>Project Management</th>
+    <td>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ## Education
 
