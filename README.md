@@ -239,9 +239,30 @@ This prototype showcases a hack-and-slash combat system where the player can swi
 </table>
 
 ## Education
-
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+  </tr>
+  <tr>
+    <td>Bachelor's degree in multimedia engineering</td>
+    <td><a href="https://www.uao.edu.co/">Universidad Autonoma de Occidente</a></td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>Specialization in project management</td>
+    <td><a href="https://www.uao.edu.co/">Universidad Autonoma de Occidente</a></td>
+    <td>2026</td>
+  </tr>
+ </table>
+ 
 ## Licences and Certifications
-
+- [Epic Games Game Design Professional Certificate - January 2025](https://coursera.org/share/759506db9ef975b824f2beb93803156c)
+- [Introduction to C++ Programming and Unreal - February 2025](https://coursera.org/share/6b7b72bc617fa8a840298e4743508a6c)
+- [Scrum Fundamentals Certified - August 2025](https://www.scrumstudy.com/certification/verify?type=SFC&number=1099741)
+- [Learn English International - CEPT rating B2](https://drive.google.com/file/d/1woUctM5MIVatLXdmtp2bdNtQ_yLaT0JX/view?usp=sharing)
+  
 ## Hard Skills
 
 ## Soft Skills
