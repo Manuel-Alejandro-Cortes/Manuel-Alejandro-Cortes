@@ -264,6 +264,7 @@ This prototype showcases a hack-and-slash combat system where the player can swi
 - [Learn English International - CEPT rating B2](https://drive.google.com/file/d/1woUctM5MIVatLXdmtp2bdNtQ_yLaT0JX/view?usp=sharing)
   
 ## Quick Links
-<a href="https://www.linkedin.com/in/manuel-cortes-24c/"><img height="30" src="linkedinIcon.png"></a>&nbsp;&nbsp;
-<a href="mailto:manucocortes76@gmail.com"><img height="30" src="emailIcon.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@manuelcortes2669"><img height="30" src="youtubeIcon.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manuel-cortes-24c/" target="_blank" rel="noopener noreferrer"><img height="30" src="linkedinIcon.png"></a>&nbsp;&nbsp;
+<a href="mailto:manucocortes76@gmail.com" target="_blank" rel="noopener noreferrer"><img height="30" src="emailIcon.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@manuelcortes2669" target="_blank" rel="noopener noreferrer"><img height="30" src="youtubeIcon.png"></a>&nbsp;&nbsp;
+<a href="https://lying-on-bell.itch.io/" target="_blank" rel="noopener noreferrer"><img height="30" src="itchioIcon.png"></a>&nbsp;&nbsp;
