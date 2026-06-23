@@ -1,5 +1,10 @@
 # Hi, welcome to my GitHub!<img width="30" src="https://slackmojis.com/emojis/4594-blob-wave/download" alt="greetings blob" />
 
+<p align="center">
+  <a href="https://youtu.be/LWWSQiw8FZY" target="_blank">Watch Portfolio Reel</a> | 
+  <a href="https://drive.google.com/file/d/1RilIbELrZwTz1JjET-svrZqOjli2JIEh/view?usp=sharing" target="_blank">Read Curriculum Vitae</a>
+</p>
+
 <p>I'm a Multimedia Engineer focused on Gameplay Programming, specializing in Unreal Engine 5<strong></strong>. 
 
 My experience includes building multiplayer gameplay systems, Gameplay Ability System, AI behaviors, and interaction systems. I also have experience profiling and optimizing gameplay features to ensure performance and responsiveness.
