@@ -13,7 +13,7 @@ Beyond programming, I'm interested in software architecture, design patterns, an
 
 ## Experience
 - [Life Is The Game](https://www.linkedin.com/company/life-is-the-game/) - <b>Gameplay Programmer</b> | <b>June 2026 - Present</b> |
-- [Aviary Productions](https://www.linkedin.com/company/aviary-productions/) - <b>Gameplay Programmer</b> | <b>Jan 2026 - Present</b> |
+- [Aviary Productions](https://www.linkedin.com/company/aviary-productions/) - <b>Gameplay Programmer</b> | <b>Jan 2026 - Aug 2026</b> |
 
 ## Projects
 
@@ -263,10 +263,10 @@ This prototype showcases a hack-and-slash combat system where the player can swi
  </table>
  
 ## Licences and Certifications
-- [Epic Games Game Design Professional Certificate - January 2025](https://coursera.org/share/759506db9ef975b824f2beb93803156c)
-- [Introduction to C++ Programming and Unreal - February 2025](https://coursera.org/share/6b7b72bc617fa8a840298e4743508a6c)
-- [Scrum Fundamentals Certified - August 2025](https://www.scrumstudy.com/certification/verify?type=SFC&number=1099741)
-- [Learn English International - CEPT rating B2](https://drive.google.com/file/d/1woUctM5MIVatLXdmtp2bdNtQ_yLaT0JX/view?usp=sharing)
+- [Epic Games Game Design Professional Certificate - 2025](https://coursera.org/share/759506db9ef975b824f2beb93803156c)
+- [Introduction to C++ Programming and Unreal - 2025](https://coursera.org/share/6b7b72bc617fa8a840298e4743508a6c)
+- [Control Rig for Unreal Engine 5 - 2026](ude.my/UC-80f6eced-b8d4-4d2c-9b5b-222810c8fcff)
+- [Hybrid Animation in Unreal Engine 5 - 2026](ude.my/UC-189636a9-809d-4622-8d80-b113ce959cc9)
   
 ## Quick Links
 <a href="https://www.linkedin.com/in/manuel-cortes-24c/" target="_blank" rel="noopener noreferrer"><img height="30" src="linkedinIcon.png"></a>&nbsp;&nbsp;
