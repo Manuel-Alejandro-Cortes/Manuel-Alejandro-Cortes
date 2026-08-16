@@ -265,8 +265,8 @@ This prototype showcases a hack-and-slash combat system where the player can swi
 ## Licences and Certifications
 - [Epic Games Game Design Professional Certificate - 2025](https://coursera.org/share/759506db9ef975b824f2beb93803156c)
 - [Introduction to C++ Programming and Unreal - 2025](https://coursera.org/share/6b7b72bc617fa8a840298e4743508a6c)
-- [Control Rig for Unreal Engine 5 - 2026](ude.my/UC-80f6eced-b8d4-4d2c-9b5b-222810c8fcff)
-- [Hybrid Animation in Unreal Engine 5 - 2026](ude.my/UC-189636a9-809d-4622-8d80-b113ce959cc9)
+- [Control Rig for Unreal Engine 5 - 2026](https://www.udemy.com/certificate/UC-80f6eced-b8d4-4d2c-9b5b-222810c8fcff/)
+- [Hybrid Animation in Unreal Engine 5 - 2026](https://www.udemy.com/certificate/UC-189636a9-809d-4622-8d80-b113ce959cc9/)
   
 ## Quick Links
 <a href="https://www.linkedin.com/in/manuel-cortes-24c/" target="_blank" rel="noopener noreferrer"><img height="30" src="linkedinIcon.png"></a>&nbsp;&nbsp;
