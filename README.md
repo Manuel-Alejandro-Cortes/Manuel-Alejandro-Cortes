@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/LWWSQiw8FZY" target="_blank">Watch Portfolio Reel</a> | 
-  <a href="https://drive.google.com/file/d/1RilIbELrZwTz1JjET-svrZqOjli2JIEh/view?usp=sharing" target="_blank">Read Curriculum Vitae</a>
+  <a href="https://drive.google.com/file/d/1h3Ix37z2G_TmhdAhxOgUZqBfkKd_a-5U/view?usp=sharing" target="_blank">Read Curriculum Vitae</a>
 </p>
 
 <p>I'm a Multimedia Engineer focused on Gameplay Programming, specializing in Unreal Engine 5<strong></strong>. 
